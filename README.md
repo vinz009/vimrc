@@ -1,3 +1,3 @@
-#Personal Preference for vimrc
+# Personal Preference for vimrc
 ---
 Lightweight simple config on my .vimrc file.
